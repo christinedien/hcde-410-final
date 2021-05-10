@@ -1,1 +1,5 @@
 # hcde-410-final
+
+The dataset can be found [here](https://www.kaggle.com/uciml/student-alcohol-consumption)
+
+I am proposing to analyze a dataset with information about students from two Portuguese schools. I am interested in learning about whether there are coorelations with extrinsic factors in a student's life that is related to higher or lower alcohol consumption. I am wary of the ethical issues of trying to predict student performance from these variables. I am proposing an exploratory data analysis. If there is coorelation between excessive alcohol usage with some of these variables, it may be able to inform lawmakers, parents, or teachers on factors that might be damaging towards student health and performance. People would then be able to work towards alleviating those negative influences.
